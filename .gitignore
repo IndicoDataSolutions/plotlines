@@ -59,7 +59,7 @@ target/
 
 # User-specific input data
 text/
-images/
+#images/
 
 # ipython/Jupyter stuff
 .ipynb_checkpoints/ 
