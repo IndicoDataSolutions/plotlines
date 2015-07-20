@@ -63,3 +63,6 @@ text/
 
 # ipython/Jupyter stuff
 .ipynb_checkpoints/ 
+
+# HTML
+*.html
