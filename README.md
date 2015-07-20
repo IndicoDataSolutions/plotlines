@@ -4,13 +4,13 @@ Sentiment analysis is difficult to implement on long stories. This repo implemen
 
 ### To install:
 Navigate to a good place on your filesystem, then:
-``` git clone https://github.com/IndicoDataSolutions/plotlines
+`git clone https://github.com/IndicoDataSolutions/plotlines`
 
 If you don't have ipython/Jupyter installed yet, then install it:
-```pip install -U ipython
+`pip install -U ipython`
 
 Launch the notebook server. It will bring up a browser window.
-```ipython notebook
+`ipython notebook`
 
 Click on `plotlines.ipynb` and walk through the code. Either use the menu `Cell > Run all` to run everything at once, or use `Shift + Enter` to execute one cell at a time.
 
